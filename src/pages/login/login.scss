@@ -1,0 +1,28 @@
+page-login {
+  .inputStyle {
+    border-bottom: 1px solid #dbdbdb;
+    padding-left: 0px !important;
+    background: #edeef3;
+  }
+  .mask-text {
+    -webkit-text-security: disc;
+    -moz-webkit-text-security: disc;
+    -moz-text-security: disc;
+  }
+  .validation-errors {
+    color: #898989;
+    font-style: italic;
+  }
+  .validation-error {
+    color: #898989;
+    font-style: italic;
+    font-size: 10px;
+  }
+  .butnStyle {
+    font-size: 1.4rem;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    text-transform: capitalize;
+    background-color: #009bbd;
+  }
+}
