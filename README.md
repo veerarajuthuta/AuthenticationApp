@@ -1,5 +1,5 @@
 # AuthenticationApp
-To download application go to your project directory and use "git clone"
+To download application go to your project directory and use "git clone https://github.com/veerarajuthuta/AuthenticationApp.git".
 For node modules use commond "npm install".
 For Android platform use commond "ionic cordova platform add android".
 To run project in browser use commond "ionic serve".
